@@ -19,6 +19,6 @@ int main()
 	int arr[] = {1,2,3,5};
 	int paise = 10;
 	cout<<no_of_ways(arr,4,paise,0);
-
+	cout<<fixed<<1.0/3;
 }
 
